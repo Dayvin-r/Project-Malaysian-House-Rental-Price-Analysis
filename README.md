@@ -1,1 +1,3 @@
 # Project-Malayisan-House-Rental-Price-Anaalysis
+
+# Analyzed close to 20,000 rental property listings across various types such as duplexes, studios, apartments, service residences, condominiums and others in the Kuala Lumpur and Selangor region. Performed comprehensive data cleaning and EDA to uncover key factors influencing rental price fluctuations based on property features. Applied linear and polynomial regression models to forecast rental prices for each property type through to the year 2030, evaluating model accuracy. Created clear and compelling data visualizations to effectively communicate trends and drivers of price variation as well as predictive insights.
